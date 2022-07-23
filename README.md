@@ -10,4 +10,5 @@
 | 004 | 009. Palindrome Number  | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/PalindromeNumber)  | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/PalindromeNumber/src/main/Solution.java)              |
 | 005 | 013. Roman to Integer   | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/RomantoInteger)    | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/RomantoInteger/src/main/java/Solution.java)           |
 | 006 | 217. Contains Duplicate | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/ContainsDuplicate) | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/ContainsDuplicate/src/main/java/Solution.java)        |
+| 007 | 007. Reverse Integer    | Medium     | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/ReverseInteger)    | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/ReverseInteger/src/main/java/Solution.java)           |
 
