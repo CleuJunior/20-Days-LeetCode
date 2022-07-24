@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlusOne/PlusOne.iml" filepath="$PROJECT_DIR$/PlusOne/PlusOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseInteger/ReverseInteger.iml" filepath="$PROJECT_DIR$/ReverseInteger/ReverseInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseString/ReverseString.iml" filepath="$PROJECT_DIR$/ReverseString/ReverseString.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomantoInteger/RomantoInteger.iml" filepath="$PROJECT_DIR$/RomantoInteger/RomantoInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
     </modules>
