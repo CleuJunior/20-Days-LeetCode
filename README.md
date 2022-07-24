@@ -12,5 +12,5 @@
 | 006 | 217. Contains Duplicate       | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/ContainsDuplicate)      | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/ContainsDuplicate/src/main/java/Solution.java)        |
 | 007 | 007. Reverse Integer          | Medium     | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/ReverseInteger)         | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/ReverseInteger/src/main/java/Solution.java)           |
 | 008 | 844. Backspace String Compare | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/BackspaceStringCompare) | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/BackspaceStringCompare/src/main/java/Solution.java)   |
-| 009 | 344. Reverse String           | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/BackspaceStringCompare) | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/BackspaceStringCompare/src/main/java/Solution.java)   |
+| 009 | 344. Reverse String           | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/ReverseString)          | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/ReverseString/src/main/java/Solution.java)            |
 
