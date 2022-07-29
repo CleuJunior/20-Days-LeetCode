@@ -15,4 +15,5 @@
 | 09  | 344. Reverse String           | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/ReverseString)          | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/ReverseString/src/main/java/Solution.java)            |
 | 10  | 125. Valid Palindrome         | Easy       | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/ValidPalindrome)        | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/ValidPalindrome/src/main/Solution.java)               |
 | 11  | 841. Keys and Rooms           | Medium     | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/KeysAndRooms)           | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/KeysAndRooms/src/main/java/Solution.java)             |
+| 12  | 709. To Lower Case            | Easy       | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/ToLowerCase)             | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/ToLowerCase/src/main/java/Solution.java)               |
 
