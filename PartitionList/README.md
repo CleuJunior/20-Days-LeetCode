@@ -8,6 +8,7 @@ You should **preserve** the original relative order of the nodes in each of the 
 
 #### Example 1:
 
+![img](https://raw.githubusercontent.com/CleuJunior/20-Days-LeetCode/main/PartitionList/src/img/partition.jpg)
 
     Input: head = [1,4,3,2,5,2], x = 3
     Output: [1,2,2,4,3,5]
