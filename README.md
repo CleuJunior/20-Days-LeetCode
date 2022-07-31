@@ -17,4 +17,5 @@
 | 11  | 841. Keys and Rooms           | Medium     | [Here](https://github.com/CleuJunior/100-Days-LeetCode/tree/main/KeysAndRooms)           | [Here](https://github.com/CleuJunior/100-Days-LeetCode/blob/main/KeysAndRooms/src/main/java/Solution.java)             |
 | 12  | 709. To Lower Case            | Easy       | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/ToLowerCase)             | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/ToLowerCase/src/main/java/Solution.java)               |
 | 13  | 86. Partition List            | Medium     | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/PartitionList)           | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/PartitionList/src/main/java/Solution.java)             |
+| 14  | 929. Unique Email Addresses   | Easy       | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/PartitionList)           | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/PartitionList/src/main/java/Solution.java)             |
 

@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/ReverseString/ReverseString.iml" filepath="$PROJECT_DIR$/ReverseString/ReverseString.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomantoInteger/RomantoInteger.iml" filepath="$PROJECT_DIR$/RomantoInteger/RomantoInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToLowerCase/ToLowerCase.iml" filepath="$PROJECT_DIR$/ToLowerCase/ToLowerCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniqueEmailAddresses/UniqueEmailAddresses.iml" filepath="$PROJECT_DIR$/UniqueEmailAddresses/UniqueEmailAddresses.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidPalindrome/ValidPalindrome.iml" filepath="$PROJECT_DIR$/ValidPalindrome/ValidPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
     </modules>
