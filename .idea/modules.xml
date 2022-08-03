@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/UniqueMorseCodeWords/UniqueMorseCodeWords.iml" filepath="$PROJECT_DIR$/UniqueMorseCodeWords/UniqueMorseCodeWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidPalindrome/ValidPalindrome.iml" filepath="$PROJECT_DIR$/ValidPalindrome/ValidPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3SumClosest/_3SumClosest.iml" filepath="$PROJECT_DIR$/_3SumClosest/_3SumClosest.iml" />
     </modules>
   </component>
 </project>
