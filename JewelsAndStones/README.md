@@ -23,4 +23,4 @@ Letters are case sensitive, so `"a"` is considered a different type of stone fro
 
 - `1 <= jewels.length, stones.length <= 50`
 - `jewels` and `stones` consist of only English letters.
-- ``All the characters of `jewels` are **unique**.
+- All the characters of `jewels` are **unique**.
