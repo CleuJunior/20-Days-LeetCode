@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BackspaceStringCompare/BackspaceStringCompare.iml" filepath="$PROJECT_DIR$/BackspaceStringCompare/BackspaceStringCompare.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JewelsAndStones/JewelsAndStones.iml" filepath="$PROJECT_DIR$/JewelsAndStones/JewelsAndStones.iml" />
       <module fileurl="file://$PROJECT_DIR$/KeysAndRooms/KeysAndRooms.iml" filepath="$PROJECT_DIR$/KeysAndRooms/KeysAndRooms.iml" />
       <module fileurl="file://$PROJECT_DIR$/PartitionList/PartitionList.iml" filepath="$PROJECT_DIR$/PartitionList/PartitionList.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlusOne/PlusOne.iml" filepath="$PROJECT_DIR$/PlusOne/PlusOne.iml" />
