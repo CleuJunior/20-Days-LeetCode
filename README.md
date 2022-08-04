@@ -20,5 +20,5 @@
 | 14  | 929. Unique Email Addresses   | Easy       | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/UniqueEmailAddresses)   | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/UniqueEmailAddresses/src/main/java/Solution.java)     |
 | 15  | 804. Unique Morse Code Words  | Easy       | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/UniqueMorseCodeWords)   | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/UniqueMorseCodeWords/src/main/java/Solution.java)     |
 | 16  | 016. 3Sum Closest             | Medium     | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/_3SumClosest)           | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/_3SumClosest/src/main/java/Solution.java)             |
-| 17  | 771. Jewels and Stones        | Easy       | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/_3SumClosest)           | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/_3SumClosest/src/main/java/Solution.java)             |
+| 17  | 771. Jewels and Stones        | Easy       | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/JewelsAndStones)        | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/JewelsAndStones/src/main/java/Solution.java)          |
 
