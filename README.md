@@ -22,4 +22,5 @@
 | 16  | 016. 3Sum Closest              | Medium     | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/_3SumClosest)           | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/_3SumClosest/src/main/java/Solution.java)             |
 | 17  | 771. Jewels and Stones         | Easy       | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/JewelsAndStones)        | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/JewelsAndStones/src/main/java/Solution.java)          |
 | 18  | 209. Minimum Size Subarray Sum | Medium     | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/MinimumSizeSubarraySum) | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/MinimumSizeSubarraySum/src/main/java/Solution.java)   |
+| 19  | 064. Minimum Path Sum          | Medium     | [Here](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/MinimumSizeSubarraySum) | [Here](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/MinimumSizeSubarraySum/src/main/java/Solution.java)   |
 
