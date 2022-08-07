@@ -10,25 +10,25 @@ _The project consists of **20 days** doing programming challenges with the [Leet
 
 ### List of Challenges Done:
 
-| Day  | Problem                                          | Solution                                                    | Difficulty |
-|------|--------------------------------------------------|-------------------------------------------------------------|------------|
-| _01_ | [027. Remove Element](l1nq.com/6VKa2)            | [027. Remove Element - Solution](l1nq.com/QzMzP)            | **Easy**   |
-| _02_ | [020. Valid Parentheses](l1nq.com/eSOU0)         | [020. Valid Parentheses - Solution](l1nq.com/PPHzC)         | **Easy**   |
-| _03_ | [066. Plus One](l1nq.com/Cz2jz)                  | [066. Plus One - Solution](l1nq.com/yu94w)                  | **Easy**   |
-| _04_ | [009. Palindrome Number](l1nq.com/atpbS)         | [009. Palindrome Number - Solution](l1nq.com/oOQSQ)         | **Easy**   |
-| _05_ | [013. Roman to Integer](l1nq.com/oPei9)          | [013. Roman to Integer - Solution](l1nq.com/7tNnw)          | **Easy**   |
-| _06_ | [217. Contains Duplicate](l1nq.com/OznX1)        | [217. Contains Duplicate - Solution](l1nq.com/vnSLL)        | **Easy**   |
-| _07_ | [007. Reverse Integer](l1nq.com/VgMHQ)           | [007. Reverse Integer - Solution](l1nq.com/KMETq)           | **Medium** |
-| _08_ | [844. Backspace String Compare](l1nq.com/Qbn35)  | [844. Backspace String Compare - Solution](l1nq.com/TVTo2)  | **Easy**   |
-| _09_ | [344. Reverse String](l1nq.com/IUbAN)            | [344. Reverse String - Solution](l1nq.com/bMHvg)            | **Easy**   |
-| _10_ | [125. Valid Palindrome](l1nq.com/d9iyi)          | [125. Valid Palindrome - Solution](l1nq.com/S0VrK)          | **Easy**   |
-| _11_ | [841. Keys and Rooms](l1nq.com/PJcVj)            | [841. Keys and Rooms - Solution](l1nq.com/PcChW)            | **Medium** |
-| _12_ | [709. To Lower Case](l1nq.com/CZ2gg)             | [709. To Lower Case - Solution](l1nq.com/seymb)             | **Easy**   |
-| _13_ | [086. Partition List](l1nq.com/29HIt)            | [086. Partition List - Solution](l1nq.com/l7rmq)            | **Medium** |
-| _14_ | [929. Unique Email Addresses](l1nq.com/hWDYG)    | [929. Unique Email Addresses - Solution](l1nq.com/jasOs)    | **Easy**   |
-| _15_ | [804. Unique Morse Code Words](l1nq.com/uGN2t)   | [804. Unique Morse Code Words - Solution](l1nq.com/jddZM)   | **Easy**   |
-| _16_ | [016. 3Sum Closest](l1nq.com/UvnAV)              | [016. 3Sum Closest - Solution](l1nq.com/kjOqb)              | **Medium** |
-| _17_ | [771. Jewels and Stones](l1nq.com/YH5gv)         | [771. Jewels and Stones - Solution](l1nq.com/mI2Y9)         | **Easy**   |
-| _18_ | [209. Minimum Size Subarray Sum](l1nq.com/zOHqa) | [209. Minimum Size Subarray Sum - Solution](l1nq.com/knzfD) | **Medium** |
-| _19_ | [064. Minimum Path Sum](l1nq.com/OXNib)          | [064. Minimum Path Sum - Solution](l1nq.com/dt76K)          | **Medium** |
-| _20_ | [035. Search Insert Position](l1nq.com/iCe2o)    | [035. Search Insert Position - Solution](l1nq.com/Grlwk)    | **Easy**   |
+| Day  | Problem                                                                                                           | Solution                                                                                                                                                 | Difficulty |
+|------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| _01_ | [027. Remove Element](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/RemoveElement)                     | [027. Remove Element - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/RemoveElement/src/main/java/RemoveElements.java)               | **Easy**   |
+| _02_ | [020. Valid Parentheses](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/ValidParentheses)               | [020. Valid Parentheses - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/ValidParentheses/src/main/java/ValidParentheses.java)       | **Easy**   |
+| _03_ | [066. Plus One](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/PlusOne)                                 | [066. Plus One - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/PlusOne/src/main/java/PlusOne.java)                                  | **Easy**   |
+| _04_ | [009. Palindrome Number](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/PalindromeNumber)               | [009. Palindrome Number - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/PalindromeNumber/src/main/Solution.java)                    | **Easy**   |
+| _05_ | [013. Roman to Integer](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/RomantoInteger)                  | [013. Roman to Integer - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/RomantoInteger/src/main/java/Solution.java)                  | **Easy**   |
+| _06_ | [217. Contains Duplicate](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/ContainsDuplicate)             | [217. Contains Duplicate - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/ContainsDuplicate/src/main/java/Solution.java)             | **Easy**   |
+| _07_ | [007. Reverse Integer](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/ReverseInteger)                   | [007. Reverse Integer - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/ReverseInteger/src/main/java/Solution.java)                   | **Medium** |
+| _08_ | [844. Backspace String Compare](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/BackspaceStringCompare)  | [844. Backspace String Compare - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/BackspaceStringCompare/src/main/java/Solution.java)  | **Easy**   |
+| _09_ | [344. Reverse String](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/ReverseString)                     | [344. Reverse String - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/ReverseString/src/main/java/Solution.java)                     | **Easy**   |
+| _10_ | [125. Valid Palindrome](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/ValidPalindrome)                 | [125. Valid Palindrome - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/ValidPalindrome/src/main/Solution.java)                      | **Easy**   |
+| _11_ | [841. Keys and Rooms](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/KeysAndRooms)                      | [841. Keys and Rooms - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/KeysAndRooms/src/main/java/Solution.java)                      | **Medium** |
+| _12_ | [709. To Lower Case](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/ToLowerCase)                        | [709. To Lower Case - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/ToLowerCase/src/main/java/Solution.java)                        | **Easy**   |
+| _13_ | [086. Partition List](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/PartitionList)                     | [086. Partition List - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/PartitionList/src/main/java/Solution.java)                     | **Medium** |
+| _14_ | [929. Unique Email Addresses](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/UniqueEmailAddresses)      | [929. Unique Email Addresses - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/UniqueEmailAddresses/src/main/java/Solution.java)      | **Easy**   |
+| _15_ | [804. Unique Morse Code Words](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/UniqueMorseCodeWords)     | [804. Unique Morse Code Words - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/UniqueMorseCodeWords/src/main/java/Solution.java)     | **Easy**   |
+| _16_ | [016. 3Sum Closest](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/_3SumClosest)                        | [016. 3Sum Closest - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/_3SumClosest/src/main/java/Solution.java)                        | **Medium** |
+| _17_ | [771. Jewels and Stones](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/JewelsAndStones)                | [771. Jewels and Stones - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/JewelsAndStones/src/main/java/Solution.java)                | **Easy**   |
+| _18_ | [209. Minimum Size Subarray Sum](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/MinimumSizeSubarraySum) | [209. Minimum Size Subarray Sum - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/MinimumSizeSubarraySum/src/main/java/Solution.java) | **Medium** |
+| _19_ | [064. Minimum Path Sum](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/MinimumPathSum)                  | [064. Minimum Path Sum - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/MinimumPathSum/src/main/java/Solution.java)                  | **Medium** |
+| _20_ | [035. Search Insert Position](https://github.com/CleuJunior/20-Days-LeetCode/tree/main/SearchInsertPosition)      | [035. Search Insert Position - Solution](https://github.com/CleuJunior/20-Days-LeetCode/blob/main/SearchInsertPosition/src/main/java/Solution.java)      | **Easy**   |
